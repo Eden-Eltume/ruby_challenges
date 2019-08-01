@@ -1,16 +1,9 @@
 require 'fileutils'
 
 copy_and_paste = <<~NAMES
-1   Series  Not completed
-2   Sieve of Eratosthenes   Not completed
-3   Octal   Not completed
-4   Trinary   Not completed
-5   Sum of Multiples  Not completed
-6   Anagrams  Not completed
-7   Point Mutations   Not completed
-8   Word Count  Not completed
-9   Perfect Number  Not completed
-10  Roman Numerals  Not completed
+1 	Odd Words and the How to Work with a Code Challenge 	Not completed
+2 	Scrabble Score 	Not completed
+3 	Beer Song 	Not completed
 NAMES
 
 def generate_filenames(heredoc, filetype)
